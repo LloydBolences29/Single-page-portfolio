@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LloydBolences29/single-page-portfolio.git"
+    "url": "git+https://github.com/LloydBolences29/Single-page-portfolio.git"
   },
   "author": "Lloyd Bolences",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LloydBolences29/single-page-portfolio/issues"
+    "url": "https://github.com/LloydBolences29/Single-page-portfolio/issues"
   },
 
   "dependencies": {
