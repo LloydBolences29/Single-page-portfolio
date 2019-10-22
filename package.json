@@ -1,24 +1,24 @@
 {
   "name": "single-page-portfolio",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "homepage":"https://github.io/lloydbolences29/single-page-portfolio",
+  "homepage": "https://github.io/lloydbolences29/single-page-portfolio",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.io/LloydBolences29/single-page-portfolio.git"
+    "url": "git+https://github.com/LloydBolences29/single-page-portfolio.git"
   },
   "author": "Lloyd Bolences",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/LloydBolences29/single-page-portfolio/issues"
   },
-
   "dependencies": {
     "gh-pages": "^2.1.1"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
